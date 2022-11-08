@@ -13,10 +13,16 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 ```
 
-Test poetry is installed
+Test poetry is installed:
 
 ```bash
 poetry --version
+```
+
+install poetry packages:
+
+```bash
+poetry install
 ```
 
 ## Tests
