@@ -6,7 +6,9 @@ This is just a python playground to get to understand the python ecosystem.
 
 This presumes you already have python installed in your system.
 
-Install poetry 
+This project uses [poetry](https://python-poetry.org/) a Python packaging and dependency management tool. 
+
+Install poetry
 
 ``` bash
 curl -sSL https://install.python-poetry.org | python3 -
